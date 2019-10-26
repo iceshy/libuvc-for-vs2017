@@ -1,7 +1,8 @@
 How to prepare your system for uvc on Windows 
+=============================================
 (please refer to https://github.com/pupil-labs/pyuvc/blob/master/WINDOWS_USER.md)
 
-LibUVC will work with x64/x86
+# LibUVC will work with x64/x86
 1. Download and install [libusbk 3.0.7.0] (https://sourceforge.net/projects/libusbk/files/libusbK-release/3.0.7.0/libusbK-3.0.7.0-setup.exe/download)
 2. Download and install [Zadig] (https://github.com/pbatard/libwdi/releases/download/v1.2.5/zadig-2.2.exe)
 3. Plug in your web camera
